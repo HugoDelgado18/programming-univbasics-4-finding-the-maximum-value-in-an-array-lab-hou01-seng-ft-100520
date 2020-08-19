@@ -1,6 +1,7 @@
 def find_max_value(array)
   #array = array.sort
   counter = 0
+  puts array
 
   while counter < array.length do
     if array[counter] == array.max
