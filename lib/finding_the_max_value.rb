@@ -1,3 +1,6 @@
 def find_max_value(array)
-  # Add your solution here
+  array = array.max
+
+  return array
+
 end
